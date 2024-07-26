@@ -1,1 +1,1 @@
-This is an integrated application for womens' safety which is a comprehensive platform offering Secure Login, Emergency Panic, News Alerts, Route Navigation with Police Station Proximity, Incident Reporting, and Heatmap Visualization.
+This is an integrated application for womens' safety which is a comprehensive platform offering Secure Login, Emergency Panic, News Alerts, Secure Route Navigation with Police Station Proximity and Reported Crime, Incident Reporting, and Heatmap Visualization.
